@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/02/22 20:02:09.702.pas,C:\Documents and Settings\Thiago\Meus documentos\RAD Studio\Projects\Unit1.pas=C:\Thiago\Programas\Conversor Race\Unit1.pas</Transaction>
+    <Transaction>2010/02/22 20:02:09.702.dfm,C:\Documents and Settings\Thiago\Meus documentos\RAD Studio\Projects\Unit1.dfm=C:\Thiago\Programas\Conversor Race\Unit1.dfm</Transaction>
+    <Transaction>2010/02/22 20:02:20.515.dproj,C:\Documents and Settings\Thiago\Meus documentos\RAD Studio\Projects\Project1.dproj=C:\Thiago\Programas\Conversor Race\Conversor.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
